@@ -1,0 +1,13 @@
+180529180441, 33333, "Gray Mountain - John Grisham", 14.95, 20, 20.0, 239.20, 05/29/18, 04:41:36 PM EDT
+180529180441, 11111, "Top Secret Twenty One - Janet Evanovich", 8.99, 1, 0.0, 8.99, 05/29/18, 04:41:36 PM EDT
+180529180453, 22222, "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 05/29/18, 04:53:59 PM EDT
+180529180453, 11111, "Top Secret Twenty One - Janet Evanovich", 8.99, 15, 20.0, 107.88, 05/29/18, 04:53:59 PM EDT
+180529180457, 12277, "Y Is For Yesterday - Sue Grafton", 10.99, 10, 15.0, 93.41, 05/29/18, 04:57:28 PM EDT
+180529180457, 19342, "The Surgeon - Tess Gerritsen", 10.99, 4, 0.0, 43.96, 05/29/18, 04:57:28 PM EDT
+180529180501, 22222, "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 05/29/18, 05:01:52 PM EDT
+180529180501, 55555, "Everyday Italian - Giada de Laurentiis", 18.99, 13, 15.0, 209.84, 05/29/18, 05:01:52 PM EDT
+180529180501, 11234, "Tricky Twenty-Two - Janet Evanovich", 12.95, 20, 20.0, 207.20, 05/29/18, 05:01:52 PM EDT
+180529180507, 22222, "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 05/29/18, 05:07:24 PM EDT
+180529180957, 12277, "Y Is For Yesterday - Sue Grafton", 10.99, 6, 10.0, 59.35, 05/29/18, 09:57:47 PM EDT
+180529180957, 55555, "Everyday Italian - Giada de Laurentiis", 18.99, 14, 15.0, 225.98, 05/29/18, 09:57:47 PM EDT
+180529180957, 43786, "The Girl on the Train - Paula Hawkins", 9.99, 13, 15.0, 110.39, 05/29/18, 09:57:47 PM EDT
